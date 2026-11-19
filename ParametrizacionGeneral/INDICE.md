@@ -1,0 +1,38 @@
+# system\_modules/ParametrizacionGeneral
+
+- [DIAL-966](<../../Sin modulo confirmado/DIAL-966.md>) · 🧪Feat: Migra el módulo de BioEstadistica a reingeniería (DIAL-966)
+- [DIAL-1122](<../../Sin modulo confirmado/DIAL-1122.md>) · Avances de parametrización generales
+- [DIAL-1179](<../../Sin modulo confirmado/DIAL-1179.md>) · 🧪Feat: Valida el ingreso a Dialisoft según la parametrización (DIAL-1179)
+- [OP-56](<../../Sin modulo confirmado/OP-56.md>) · Reestructuración Bioestadística
+- [OP-1132](<../../Sin modulo confirmado/OP-1132.md>) · Bioestadisticall - Actualizaciones y mejoras
+- [OP-1135](<OP-1135.md>) · Gestión tabla pacientes\_novedades\_tipos modulo parametrización general
+- [OP-1170](<OP-1170.md>) · ParametrizacionGeneral: Implementa MDB5
+- [OP-1247](<../../app_modules/MedicamentosInsumosParametrizacion/OP-1247.md>) · Incidencia remplazada por parametrización de contratación Implementación de la propiedad Sticky en las parametrizaciones generales del sistema en Reingeniería
+- [OP-1309](<../../app_modules/AdministracionPacientes/OP-1309.md>) · RQ - App\_Modules/administración pacientes: Gestión Novedades Asistenciales
+- [OP-1451](<../../Sin modulo confirmado/OP-1451.md>) · AppModules/Administración Pacientes - Campo Tipo de Hospitalización en Pacientes Novedades
+- [OP-1570](<OP-1570.md>) · Parametrización envio de correo en los Crontabs
+- [OP-1912](<../../app_modules/ReportesExcel/OP-1912.md>) · App/ReportesExcel - Gestión nuevo reporte Error medicación y gestión de la parametrización
+- [OP-2005](<OP-2005.md>) · System\_Modules/ParametrizacionGeneral: Agregar Ítem de parametrización para los medios de radicación.
+- [OP-2023](<OP-2023.md>) · System\_Modules/ParametrizacionGeneral: Agregar Ítem de parametrización para los Responsables IPS
+- [OP-2024](<OP-2024.md>) · System\_Modules/ParametrizacionGeneral: Agregar Ítem de parametrización para los Estados de la Circular 030
+- [OP-2027](<OP-2027.md>) · System\_Modules/ParametrizacionGeneral: Agregar Ítem de parametrización para las Cuentas Bancarias
+- [OP-2028](<OP-2028.md>) · System\_Modules/ParametrizacionGeneral: Agregar Ítem de parametrización para los Bancos
+- [OP-2029](<OP-2029.md>) · System\_Modules/ParametrizacionGeneral: Agregar Ítem de parametrización para las Formas de Pago
+- [OP-2105](<OP-2105.md>) · System\_Modules/ParametrizacionGeneral: Agregar Ítem de parametrización para los Estados de Glosas
+- [OP-2210](<OP-2210.md>) · ParametrizacionGeneral y AppRecibos\_TesoreriaII - Parametrización flujos efectivo y terceros y gestión de nuevo campo flujos de efectivo en Recibos
+- [OP-2310](<OP-2310.md>) · System\_Modules/ParametrizacionGeneral - Permitir busqueda de tercero por NIT y realizar mejoras en parametrización de flujos efectivo
+- [OP-2340](<../../app_modules/Recibos_TesoreriaII/OP-2340.md>) · App\_modules/Recibos\_TesoreriaII - Valida días hacia atrás del campo de fecha transaccion por variable de parametrizacion
+- [OP-2456](<OP-2456.md>) · App\_modules/ParametrizacionGeneral - Crear parametrización de vacunación (vacunas)
+- [OP-2490](<OP-2490.md>) · App\_modules/ParametrizacionGeneral - Parametrización de obligatoriedad del campo Lote en Vacunación
+- [OP-2527](<../../app_modules/BioEstadisticaII/OP-2527.md>) · App\_modules/BioestadisticaII: Descargue masivo de atenciones de grupo de apoyo, SV y NE
+- [OP-2547](<OP-2547.md>) · App\_modules/ParametrizacionGeneral - Corregir novedades en parametrizar vacunas y vacunación(biologías)
+- [OP-2616](<../../Sin modulo confirmado/OP-2616.md>) · Novedades generales de los módulos relacionados con el proyecto Cartera
+- [OP-2962](<OP-2962.md>) · system\_modules/ParametrizacionGeneral - Crear grupo de parametrización de facturación (RIPS)
+- [OP-3009](<OP-3009.md>) · App\_modules/ParametrizacionGeneral - Crontabs - Ajuste envio contratos proximos a vencer y parametrizacion de correos
+- [OP-3010](<OP-3010.md>) · ParametrizacionGeneral - Ajustes a la visualización de los crontabs
+- [OP-3091](<../../Sin modulo confirmado/OP-3091.md>) · Nuevas actualizaciones y funcionalidades en la ficha antimicrobiana.
+- [OP-3099](<OP-3099.md>) · Implementación de validaciones en los campos de contacto del paciente y responsable.
+- [OP-3102](<OP-3102.md>) · Administración de enlaces externos mediante parametrización centralizada.
+- [OP-3232](<OP-3232.md>) · system\_modules/ParametrizacionGeneral: Solución de incompatibilidad con PHP 8.4 en el módulo PARAMETRIZACION GENERAL
+- [RASD-1836](<RASD-1836.md>) · (CECC) Novedad en la visualización de los crontabs desde el modulo de Parametrización General.
+- [RD-32](<../../Sin modulo confirmado/RD-32.md>) · 🧪Feat: Gestiona la parametrización de datos del paciente (RD-32)

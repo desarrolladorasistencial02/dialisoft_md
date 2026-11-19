@@ -1,0 +1,44 @@
+# system\_modules/Usuarios
+
+- [DIAL-564](<../../Sin modulo confirmado/DIAL-564.md>)
+- [DIAL-593](<DIAL-593.md>)
+- [DIAL-1046](<DIAL-1046.md>) · 🧪Feat: Gestiona el envío de credenciales para usuarios e invitados vía email (DIAL-1046)
+- [OP-12](<../../Sin modulo confirmado/OP-12.md>) · Verificación tipo de documento
+- [OP-21](<OP-21.md>) · Organizar módulo asignación de permisos de usuarios
+- [OP-28](<../../Sin modulo confirmado/OP-28.md>) · Modificacion modulo Administracion Usuarios opcion ADMINISTRACION PROFESIONALES
+- [OP-71](<../../Sin modulo confirmado/OP-71.md>) · Deshabilitar Profesionales inactivos modulo creación de agenda médica.
+- [OP-145](<OP-145.md>) · Modificar campo búsqueda del modulo Propiedades de Usuarios.
+- [OP-146](<../../Sin modulo confirmado/OP-146.md>) · Realizar modificaciones de búsqueda en el módulo de Administración de Profesionales – Modificar Profesional.
+- [OP-147](<OP-147.md>) · Crear campo Email, módulo Propiedades de Usuario.
+- [OP-148](<OP-148.md>) · Separar perfiles por empresa y por unidad funcional en Propiedades de Usuarios – Perfil.
+- [OP-150](<OP-150.md>) · Novedad en el estado de los departamentos, al asignarlo a un profesional. (tabla profesionales\_estados).
+- [OP-151](<OP-151.md>) · Modificar Filtro de Busqueda por UID en Submodulo Propiedades de Usuario
+- [OP-158](<../../Sin modulo confirmado/OP-158.md>) · Modificación Búsqueda Administración De Profesionales - Crear Nuevo Profesional
+- [OP-159](<../../Sin modulo confirmado/OP-159.md>) · Modificación Búsqueda Propiedades De Usuarios y Administración De Profesionales
+- [OP-184](<OP-184.md>) · Administración de Usuarios: Corrección en la busqueda y la visualización de información (Unidad renal - Usuarios)
+- [OP-214](<../../Sin modulo confirmado/OP-214.md>) · Cambiar la contraseña que se le asigna a los usuarios nuevos
+- [OP-218](<OP-218.md>) · Crear filtros y columnas - estado, especialidad y perfil por el modulo de usuarios
+- [OP-235](<OP-235.md>) · Cambiar cantidad de registros a usuarios antiguos y nuevos - Modulo configuracion de usuarios
+- [OP-513](<../../app_modules/DirectorioUsuarios/OP-513.md>) · Directorio de Usuarios: Agrear nuevas caracteristicas.
+- [OP-740](<OP-740.md>) · Administración de profesionales: Se requiere crear columna de "estado", en la tabla especialidades y que dependiendo al estado se muestren las especialidades en el modulo.
+- [OP-835](<OP-835.md>) · Perfiles: Agregar campos auditoria para creación perfiles y usuarios
+- [OP-878](<OP-878.md>) · system/Usuarios: Valida las variables de tipo contable
+- [OP-897](<../../Sin modulo confirmado/OP-897.md>) · System: Ajuste en la escritura del $this en system\_modules
+- [OP-1456](<OP-1456.md>) · System\_Modules/Usuarios - Cancelar Envio de Credenciales De Acceso a Correo
+- [OP-1520](<OP-1520.md>) · Adjuntar firma .JPG en la Administración de Usuarios.
+- [OP-1600](<../../app_modules/Cuentas/OP-1600.md>) · App/Cuentas-ServiciosExternos: Marcaje teleconsulta en los cargos manuales
+- [OP-1729](<../../app_modules/ReportesExcel/OP-1729.md>) · RIPS JSON: Generar llave en el grupo de usuarios
+- [OP-1813](<OP-1813.md>) · App\_modules/AdministracionUsuarios - Mantener actualización de estado activo y listar\_usuario al modificar accion de un usuario y refrescar navegador
+- [OP-2633](<../../app_modules/BioEstadisticaParametrizacion/OP-2633.md>) · App\_modules/BioEstadisticaParametrización: Ordenar alfabéticamente los permisos del módulo BioEstadisticaParametrización
+- [OP-2695](<OP-2695.md>) · system\_module/Usuarios: Mejoras al modulo Administración Usuarios
+- [OP-2698](<../../app_modules/ReportesExcel/OP-2698.md>) · App\_modules/ReportesExcel: Gestionar reporte de Novedades de Pacientes
+- [OP-2813](<OP-2813.md>) · system\_modules/Usuarios - Permitir buscar usuarios que no estan creados como profesionales
+- [OP-2864](<../../Sin modulo confirmado/OP-2864.md>) · CuentasII - eliminación del registro temporal de una cuenta con un usuario desactivado.
+- [OP-3046](<OP-3046.md>) · Mejoras funcionales del módulo Administración de Usuarios
+- [OP-3057](<../../app_modules/DirectorioUsuarios/OP-3057.md>) · App\_modules/DirectorioUsuarios - Optimización de búsqueda en filtros de Perfil y Especialidad en el módulo de Directorio.
+- [OP-3111](<../../app_modules/Hemodialisis/OP-3111.md>) · Agregar datos administrativos en la prescripción médica de notas de enfermería.
+- [OP-3189](<../log/OP-3189.md>) · Error en la session de los usuarios con cambios realizados para el funcionamiento de php 8.4 con postgresql 17.11
+- [OP-3195](<OP-3195.md>) · Solución de errores del modulo Administración de usuarios al hacer la migración de PHP
+- [OP-3273](<OP-3273.md>) · Caracteres especiales con visualización incorrecta en Bitbucket por codificación del archivo system\_Usuarios\_adminclasses\_HTML.php - Módulo Administración de Usuarios
+- [RASD-435](<RASD-435.md>) · system\_modules/Usuarios: Requerimiento para realizar ajustes al modulo de administracion usuarios.
+- [RD-194](<../../Sin modulo confirmado/RD-194.md>) · 🧪Feat: Limita la cantidad de caracteres en el campo dirección (RD-194)

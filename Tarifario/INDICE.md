@@ -1,0 +1,24 @@
+# system\_modules/Tarifario
+
+- [DIAL-1180](<../../app_modules/Procedimientos/DIAL-1180.md>) · 🧪Feat: Crea los procedimientos detalle en relación con los cargos (DIAL-1180)
+- [OP-394](<OP-394.md>) · Contratacion - System Tarifario - Mostrar solo los tarifarios activos
+- [OP-396](<../../Sin modulo confirmado/OP-396.md>) · Incluir códigos de bienes y servicios - ICS
+- [OP-414](<../../app_modules/Facturacion/OP-414.md>) · Facturación: Cargos CUPS
+- [OP-429](<OP-429.md>) · Tarifario: Listar los cargos por los estados
+- [OP-450](<../../Sin modulo confirmado/OP-450.md>) · Ajustes al listar cargos y departamentos.
+- [OP-482](<../../app_modules/Contratacion/OP-482.md>) · Contratación - Mostrar solo los tarifarios activos
+- [OP-651](<OP-651.md>) · Aumentos de caracteres a los cargos y códigos CUPS.
+- [OP-992](<../../Sin modulo confirmado/OP-992.md>) · Predetermina el valor de argumentos String y Array
+- [OP-1104](<../../app_modules/Contratacion/OP-1104.md>) · App/modules Contratación: Codigo tarifario en la representación grafica de la factura.
+- [OP-1205](<OP-1205.md>) · system/Tarifario: Ajuste cantidad de caracteres, código CUPS y cargos tarifarios COP
+- [OP-1774](<../../app_modules/Contratacion/OP-1774.md>) · App/Contratacion - Marcaje sw\_ninguna a los cargos que se encuentran en la opción de Copagos por tipo Afiliado
+- [OP-2941](<../../app_modules/Contratacion/OP-2941.md>) · App\_modules/Contratacion - Corregir tarifario en opción de Cargos
+- [OP-2964](<OP-2964.md>) · Tarifario - Permitir hasta 80 caracteres en campo descripción de tarifario solamente en DO
+- [OP-3048](<../../app_modules/CuentasII/OP-3048.md>) · App\_modules/CuentasII - Ajustes en las alertas informativas para la generación de JSON de RIPS en RD.
+- [OP-3108](<../../app_modules/Contratacion/OP-3108.md>) · App\_modules/Contratacion - Adicionar campos de Facturar sin N.° de contrato y Código factura sin contrato en el formulario de creación de contratos.
+- [OP-3155](<../../hc_modules/AntecedentesVI/OP-3155.md>) · Evolucion - Agregar nuevo antecedente ¿Es sintomático respiratorio? en el submódulo de antecedentes.
+- [OP-3278](<../../app_modules/Interoperabilidad_Historias_Clinicas/OP-3278.md>) · IHCE - Implementar descarga individual y masiva de JSON de RDA y ajustar selección de evoluciones
+- [OP-3317](<OP-3317.md>) · Errores relacionados a la migración de php 8.4 en modulo ADMINISTRACION DE TARIFARIOS
+- [RD-1](<../../app_modules/Moneda/RD-1.md>) · 🧪Feat: Crea el módulo app/Moneda e implementa el manejo de monedas en otros (RD-1)
+- [RD-102](<RD-102.md>) · 🧪Feat: Valida valor mínimo código tarifario y cups por país (RD-102)
+- [RD-108](<../../Sin modulo confirmado/RD-108.md>) · 🧪Feat: Gestiona los campos UNSPSC y registro sanitario según el país (RD-108)

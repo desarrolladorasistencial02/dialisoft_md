@@ -1,0 +1,136 @@
+# system\_modules/reportes
+
+- [DIAL-1285](<../../Sin modulo confirmado/DIAL-1285.md>) · 🧪Feat: Gestiona nuevo reporte Facturas Notas Asociadas en el módulo Reportes (DIAL-1285)
+- [OP-72](<OP-72.md>) · Creación módulo de Reportes con la reingeniería.
+- [OP-144](<OP-144.md>) · Estandarización módulo de reportes con la reingeniería.
+- [OP-221](<OP-221.md>) · Módulo de Reportes: Modificar la variable temporal
+- [OP-231](<../../app_modules/ReportesExcel/OP-231.md>) · Modificaciones generales en el modulo de reportes excel
+- [OP-232](<../../app_modules/ReportesExcel/OP-232.md>) · ReportesExcel - Agregar columna autorizaciones a atenciones realizadas y cumplimiento de citas
+- [OP-289](<../../app_modules/ReportesExcel/OP-289.md>) · Reportes Excel: Validación campo programa segun las sede(s) seleccionada(s).
+- [OP-351](<../../app_modules/ReportesExcel/OP-351.md>) · Reportes Excel: Actualización variables gestionadas segun La resolución 202 de 2021 reporte 4505
+- [OP-352](<../../app_modules/ReportesExcel/OP-352.md>) · Reportes Excel: Variables 59, 61 Actualización Segun Resolución 2463 V3-2020 Reporte CAC
+- [OP-491](<OP-491.md>) · Corrige HEADER cuando el plan es PGP y existe portabilidad
+- [OP-525](<../../app_modules/ReportesExcel/OP-525.md>) · App/modules: Reporte excel de facturación electrónica.
+- [OP-526](<../../app_modules/ReportesExcel/OP-526.md>) · App/modules: Reporte excel de facturación electrónica estado de las cuentas.
+- [OP-544](<../../app_modules/ReportesExcel/OP-544.md>) · Reportes Excel - Atenciones Realizadas: Agregar Columna Divipola
+- [OP-607](<../../app_modules/ReportesExcel/OP-607.md>) · Reportes/Reporte Facturación: Error al consultar el estado actual de respuesta DIAN.
+- [OP-608](<../../app_modules/ReportesExcel/OP-608.md>) · App\_modules: ReportesExcel Adición columna Valor\_Recaudo y Ajuste total cuenta
+- [OP-658](<../../app_modules/ReportesExcel/OP-658.md>) · Reportes: Atenciones realizadas - Adicionar columnas.
+- [OP-672](<../../app_modules/ReportesExcel/OP-672.md>) · App/Modules: Reporte auditoria de facturación estado documentos enviados DIAN y Saldo Total por Aseguradora.
+- [OP-694](<../../app_modules/ReportesExcel/OP-694.md>) · App/Modules: Reporte auditoria de facturación gestion de columnas recibos de caja y devoluciones.
+- [OP-724](<../../app_modules/ReportesExcel/OP-724.md>) · Reportes - Auditoria Contable: Actualiza el orden de las columnas Interfaze\_Documento y Contabilización\_Documento
+- [OP-742](<../../app_modules/ReportesExcel/OP-742.md>) · App/Modules: Reporte excel informe de adherencia RIAS renal.
+- [OP-744](<../../app_modules/ReportesExcel/OP-744.md>) · Reportes: Crear Reporte Simplificado.
+- [OP-791](<../../app_modules/ReportesExcel/OP-791.md>) · App/Reporte Excel: Adherencia rias renal gestion campo de dias de asistencia.
+- [OP-792](<../../app_modules/ReportesExcel/OP-792.md>) · Reportes: Actualizar reporte de Paraclinicos.
+- [OP-804](<../../app_modules/ReportesExcel/OP-804.md>) · App/Modules: Reporte excel de Facturación reestructuración
+- [OP-820](<../../app_modules/ReportesExcel/OP-820.md>) · Reportes: Novedades Auditoria de Documentos Contable
+- [OP-859](<../../app_modules/ReportesExcel/OP-859.md>) · Reportes: Reporte Cuenta de Alto Costo - Actualizar variable 30.
+- [OP-861](<../../app_modules/ReportesExcel/OP-861.md>) · Reportes: Reporte Cuenta de Alto Costo - Actualizar variable 36 y 37.
+- [OP-887](<../../app_modules/ReportesExcel/OP-887.md>) · Error en la generación del reporte 4505 202
+- [OP-907](<../../app_modules/ReportesExcel/OP-907.md>) · Reportes Excel: Adición de columnas al Reporte Estado de Cuentas
+- [OP-945](<../../app_modules/MedicamentosInsumosHemodialisis/OP-945.md>) · Medicamentos e Insumos HD- Mejoras en Reporte y Modal Auditoria Consumo y Auditoria Corte Consumo
+- [OP-968](<../../app_modules/ReportesExcel/OP-968.md>) · Reportes - Corregir obtención de datos de TRR para pacientes de nefroprevención en reporte CAC x razón social
+- [OP-989](<../../app_modules/ReportesExcel/OP-989.md>) · Reportes - Actualizar reporte de Terapia reemplazo renal
+- [OP-1006](<../../app_modules/ReportesExcel/OP-1006.md>) · App/Reportes: Optimiza el reporte auditoría factura
+- [OP-1009](<../../app_modules/ReportesExcel/OP-1009.md>) · Reportes - CAC - Actualizar variables para pacientes atentidos por TMND en nefroprevención.
+- [OP-1012](<../../app_modules/ReportesExcel/OP-1012.md>) · Reportes/CAC x Razón Social - Corregir obtención de datos antropométricos (Variable 23 Peso y 24 Talla) en reporte acumulado.
+- [OP-1018](<../../app_modules/ReportesExcel/OP-1018.md>) · Reportes: Cuenta de Alto costo - Agregar Auxiliar de enfermería A Consultas de Px.
+- [OP-1023](<../../app_modules/ReportesExcel/OP-1023.md>) · Reportes - Formulación ambulatoria: Agregar columnas nuevas
+- [OP-1024](<../../app_modules/ReportesExcel/OP-1024.md>) · Reportes: Formulación Ambulatoria: Actualizar columna Código\_Anatomofarmacologico
+- [OP-1025](<../../app_modules/ReportesExcel/OP-1025.md>) · Reportes: Informe de crecimiento - Corregir conteo de pacientes al descargar reporte en rango de meses.
+- [OP-1031](<../../app_modules/ReportesExcel/OP-1031.md>) · Reportes - Implementar reporte General Nefroprevención.
+- [OP-1042](<../../app_modules/ReportesExcel/OP-1042.md>) · App/Modules: ReportesExcel - Reporte de facturación servicios con cargos iguales valores distintos.
+- [OP-1043](<../../app_modules/ReportesExcel/OP-1043.md>) · Reportes - Formulación Ambulatoria - Agregar Columna de Divipola.
+- [OP-1062](<../../app_modules/ReportesExcel/OP-1062.md>) · Optimización reportes excel - obligatoriedad - versión excel 2007 reporte atenciones realizadas
+- [OP-1063](<../../Sin modulo confirmado/OP-1063.md>) · Reporte PDF: Auditoria consumo columna pedido y ajuste del pedido gris
+- [OP-1069](<../../app_modules/ReportesExcel/OP-1069.md>) · Reportes - Informe RIPS - Realizar actualizaciones y correcciones.
+- [OP-1073](<../../app_modules/ReportesExcel/OP-1073.md>) · CAC JSON: Optimización
+- [OP-1076](<../../app_modules/ReportesExcel/OP-1076.md>) · App/Modules: Reportes excel - control glucémico
+- [OP-1082](<../../app_modules/ReportesExcel/OP-1082.md>) · app/ReportesExcel: Implementa MDB5
+- [OP-1110](<../../app_modules/ReportesExcel/OP-1110.md>) · App/Modules: Reportes inventario Auditoria Consumo Acumulado cambio color y palabra
+- [OP-1112](<../../app_modules/ReportesExcel/OP-1112.md>) · Reportes - Informe RIPS Cliente - Realizar actualizaciones
+- [OP-1126](<../../app_modules/ReportesExcel/OP-1126.md>) · Reportes - Informe RIPS Clientes - Realizar actualizaciones v2
+- [OP-1128](<../../app_modules/ReportesExcel/OP-1128.md>) · Reportes - Informe RIPS Clientes - Agregar programa 14 (interconsulta) para visualizar valores de consulta
+- [OP-1141](<../../app_modules/ReportesExcel/OP-1141.md>) · AppModules/Reportes Excel - adición columnas seguimiento - Informe Consumo Sala
+- [OP-1150](<../../app_modules/ReportesExcel/OP-1150.md>) · Reportes - Reporte Simplificado - Consultar atenciones basado en el campo fecha\_erc5 tabla terapia\_reemplazo\_renal
+- [OP-1166](<../../app_modules/ReportesExcel/OP-1166.md>) · Reporte Formulacion Ambulatoria - Agregar columna CIE-10 DX Secundario y Concentración.
+- [OP-1183](<../../app_modules/ReportesExcel/OP-1183.md>) · Reportes: Informe RIPS - Clientes | Habilitar descargue de reporte para el mes actual
+- [OP-1202](<../../app_modules/ReportesExcel/OP-1202.md>) · Reportes - CAC - Actualización función general paraclinicos
+- [OP-1204](<../../app_modules/ReportesExcel/OP-1204.md>) · Reportes - CAC - Actualizar gestión variable 47 para HD
+- [OP-1227](<../../app_modules/ReportesExcel/OP-1227.md>) · Reportes - Reporte Simplificado - Actualizar fecha de búsqueda de pacientes y agregar nuevas columnas.
+- [OP-1232](<../../app_modules/ReportesExcel/OP-1232.md>) · Reportes - CAC - Actualización función general paraclinicos
+- [OP-1236](<../../app_modules/ReportesExcel/OP-1236.md>) · Reportes - CAC Pacientes agudos - Corregir descargue reporte por "TODAS"
+- [OP-1243](<../../app_modules/ReportesExcel/OP-1243.md>) · App\_modules/Reportes\_Excel: Agrega columna AtencionesMédico en reporte General Nefroprevención
+- [OP-1251](<../../app_modules/ReportesExcel/OP-1251.md>) · App\_Modules/Reportes\_Excel: Reporte RIPS cliente, error en la hoja AC no se listan las consultas de DP.
+- [OP-1266](<OP-1266.md>) · Reportes - Novedad al imprimir en Bioestadística
+- [OP-1286](<../../app_modules/ReportesExcel/OP-1286.md>) · Reportes - RIPS Cliente - Correccion de novedades
+- [OP-1288](<../../app_modules/ReportesExcel/OP-1288.md>) · App\_Modules/ReportesExcel: Inventario auditoria consumo acumulado omitir validación del estado del stock de la sala.
+- [OP-1299](<../../app_modules/ReportesExcel/OP-1299.md>) · AppModules/ReportesExcel - Mostrar En El Reporte Informe Consumo De Sala Los Medicamentos no Suministrados
+- [OP-1312](<../../app_modules/ReportesExcel/OP-1312.md>) · App\_reportes/Excel: Cumplimiento de citas adicion de columnas y ajustes resolución 1547
+- [OP-1420](<../../app_modules/ReportesExcel/OP-1420.md>) · App\_modules/ReportesExcel: Mostrar de manera dinámica los resultados de paraclínicos ingresados
+- [OP-1422](<OP-1422.md>) · Reportes/Informe de crecimiento: Conteo de sesiones extramurlaes demasiado alto para valledupar
+- [OP-1426](<../../app_modules/ReportesExcel/OP-1426.md>) · App Modules/Reportes Excel: Novedad con consulta en reporte CAC pacientes agudos
+- [OP-1428](<../../app_modules/ReportesExcel/OP-1428.md>) · Reportes/Reporte contratación - Tarifarios: Actualizar la forma en la que se consultan los planes o contratos
+- [OP-1430](<../../app_modules/Hemodialisis/OP-1430.md>) · AppModulesParametrización Hemodiálisis - Ajuste Parametrización Servicios por Salas
+- [OP-1432](<../../app_modules/ReportesExcel/OP-1432.md>) · App/ReportesExcel: migración de PHPExcel a SheetJS
+- [OP-1457](<../../app_modules/Contratacion/OP-1457.md>) · Reportes/Informe Contratación - Tarifarios: Trazabilidad de precio pactado.
+- [OP-1481](<../../app_modules/ReportesExcel/OP-1481.md>) · AppModules/Reportes Excel - Solución Impresión Resportes JS
+- [OP-1521](<../../app_modules/ReportesExcel/OP-1521.md>) · Consultar Dx de ingreso y antecedentes con prioridad a dato de antecedentes
+- [OP-1534](<../../app_modules/ReportesExcel/OP-1534.md>) · AppModules/Reportes Excel - Ocultar opción Todas Filtro Sede
+- [OP-1544](<../../app_modules/CitasPaciente/OP-1544.md>) · Includes/Formulacion Ambulatoria - Corrección formato de fecha implementación
+- [OP-1554](<../../app_modules/ReportesExcel/OP-1554.md>) · AppModules/Reportes Excel - Informe Crecimiento - Filtro Todas
+- [OP-1560](<../../app_modules/ReportesExcel/OP-1560.md>) · AppModules/Reportes Excel - Reporte Enfermedades Precursoras
+- [OP-1568](<../../app_modules/ReportesExcel/OP-1568.md>) · Reporte consolidado de egresos e Indicadores de enfermeria - Agregar columna observación
+- [OP-1573](<../../app_modules/ReportesExcel/OP-1573.md>) · App/Reportes Excel: Tipo\_Consulta y Servicio\_Prestado incorrecto en el reporte Atenciones Realizadas cuando el paciente es atentido por Teleconsulta en DP.
+- [OP-1580](<../../app_modules/ReportesExcel/OP-1580.md>) · Reportes Excel - Ajuste Reporte Enfermedades Precursoras
+- [OP-1583](<../../app_modules/ReportesExcel/OP-1583.md>) · App\_modules/Reportes Excel: Reporte atenciones de consulta externa
+- [OP-1587](<../../Sin modulo confirmado/OP-1587.md>) · AppModules/Informe Gerencial - Mejoras Operacionales Informe de Facturación
+- [OP-1668](<../../app_modules/ReportesExcel/OP-1668.md>) · Reportes/Excel Novedades al generar el reporte de Indicadores de Enfermería HD y DP
+- [OP-1689](<../../app_modules/ReportesExcel/OP-1689.md>) · Reportes/Excel CAC y CAC pacientes agudos novedades en la columna Peso
+- [OP-1815](<../../app_modules/ReportesExcel/OP-1815.md>) · App/Reportes Excel - Validar consulta de valor unitario y valor total para cuentas empaquetadas en el reporte Estado de Cuentas
+- [OP-1859](<../../app_modules/ReportesExcel/OP-1859.md>) · Modificar tipo\_id\_paciente PPT por PT en todo el sistema parte 2
+- [OP-1907](<../../app_modules/ReportesExcel/OP-1907.md>) · Reportes | Agregar código CUFE a Reporte de Facturación.
+- [OP-1911](<../../app_modules/ReportesExcel/OP-1911.md>) · App\_ReportesExcel: Versionado del reporte dispensación PGP
+- [OP-1938](<../../Sin modulo confirmado/OP-1938.md>) · app/Reportes -Redirigir emails sobre contratos próximos a vencer al correo corporativo del profesional encargado
+- [OP-1939](<../../app_modules/ReportesExcel/OP-1939.md>) · App\_modules/Reportes Excel: Actualizar filtro aseguradora en todos los reportes concatenando en el WHERE de busqueda el tercero\_id || tipo\_id\_tercero mejorando los tiempos de las consultas
+- [OP-1954](<../../app_modules/ReportesExcel/OP-1954.md>) · App\_modules/Reportes Excel: Indicadores enfermería HD y DP condición de fechas sin formateo correcto
+- [OP-1986](<../../app_modules/ReportesExcel/OP-1986.md>) · App\_modules/Reportes Excel: Reporte facturación RD validar estado anulado de la factura, gestionando el valor unitario y valor total en 0, hoja Reporte\_Detallado\_Facturacion
+- [OP-1993](<../../app_modules/ReportesExcel/OP-1993.md>) · Reportes/Reporte general nefroprevención - Consultar laboratorios por paciente independientemente de la sede
+- [OP-1994](<../../app_modules/ReportesExcel/OP-1994.md>) · App/ReportesExcel - Dejar pacientes con cambio de terapia en reporte general Nefroprevencion hasta que el paciente cumpla 90 días en TRR
+- [OP-2000](<../../app_modules/ReportesExcel/OP-2000.md>) · App\_modules/Reportes Excel: Malla Cohorte PGP ajuste en la gestión de las variables relacionadas a medicamentos formulados
+- [OP-2006](<../../app_modules/ReportesExcel/OP-2006.md>) · App/Reportes Excel: Reporte estado de cuentas, listar el cargo principal del paquete, y los servicios individuales que no hagan parte de un paquete.
+- [OP-2026](<../../app_modules/ReportesExcel/OP-2026.md>) · App\_Modules/ReportesExcel: general nefroprevención error al listar pacientes con cambio de terapia dialitica a nefroprevención.
+- [OP-2043](<../../app_modules/ReportesExcel/OP-2043.md>) · App\_Modules/ReportesExcel: error campo FechaIngProgNefro vacio reporte Cuenta de Alto Costo Res 2463-2014 y CAC pacientes agudos
+- [OP-2054](<../../app_modules/ReportesExcel/OP-2054.md>) · App\_Modules/ReportesExcel: general CAC variables TAS y TAD valores incorrectos.
+- [OP-2267](<../../app_modules/ReportesExcel/OP-2267.md>) · Reportes - Descarga masivamente JSON e información de CUV en txt
+- [OP-2287](<../../app_modules/ReportesExcel/OP-2287.md>) · ReportesExcel - Repositorio: Error al descargar facturas de forma masiva.
+- [OP-2344](<../../app_modules/ReportesExcel/OP-2344.md>) · App\_Modules/ReportesExcel: formulacion ambulatoria optimizar consultas.
+- [OP-2350](<../../app_modules/AnularFacturacion/OP-2350.md>) · App/ReportesExcel\_CuentasII: Novedades generales con la facturación agrupada.
+- [OP-2397](<../../app_modules/ReportesExcel/OP-2397.md>) · Reportes - Malla Cohorte PGP - Agregar condición a consulta de fecha ingreso unidad renal
+- [OP-2407](<../../app_modules/ReportesExcel/OP-2407.md>) · App/Reportes Excel: Dispensación productos agregar función SUM en las devoluciones
+- [OP-2408](<../../app_modules/ReportesExcel/OP-2408.md>) · App/Reportes Excel: Auditoria de consumo acumulado valor columna recibido validación
+- [OP-2455](<../../app_modules/ReportesExcel/OP-2455.md>) · App\_modules/ReportesExcel: Novedad en la sección de Indicadores de Seguimiento del reporte de Indicadores de Enfermería HD y DP
+- [OP-2457](<OP-2457.md>) · Includes/Reportes/InformeClínico: Novedad de salto de página al imprimir informe clínico del paciente
+- [OP-2466](<../../app_modules/ReportesExcel/OP-2466.md>) · App\_modules/ReportesExcel: Gestionar reporte excel de Vacunación
+- [OP-2525](<../../app_modules/ReportesExcel/OP-2525.md>) · AppModules/ReportesExcel: Novedad al imprimir Reporte Estado de Cuentas
+- [OP-2548](<../../app_modules/BioEstadisticaII/OP-2548.md>) · Includes/Reportes: Novedad en la sección Terapias de reemplazo renal recibidas durante el periodo del reporte para excluir las interconsultas y las consultas externas
+- [OP-2579](<../../Sin modulo confirmado/OP-2579.md>) · includes/reportes: Novedad en visualización de la sección de vacunación para grupo de apoyo
+- [OP-2603](<../../app_modules/ReportesExcel/OP-2603.md>) · App\_Modules Reportes Excel general nefroprevención novedades generales CAC variables HTA - Diabetes - Etiología
+- [OP-2646](<../../app_modules/ReportesExcel/OP-2646.md>) · ReportesExcel - Error al descargar el Reporte de Atenciones por todas las sedes y aseguradoras
+- [OP-2698](<../../app_modules/ReportesExcel/OP-2698.md>) · App\_modules/ReportesExcel: Gestionar reporte de Novedades de Pacientes
+- [OP-2704](<../../Sin modulo confirmado/OP-2704.md>) · Ajuste a encabezados de soportes PDF
+- [OP-2711](<OP-2711.md>) · includes/reportes: Mensaje informativo para el campo de VIH para los reportes Historia clinica, informe clinico e informe PX
+- [OP-2739](<../../app_modules/ReportesExcel/OP-2739.md>) · Reportes/Excel: Novedad al gestionar la información en el reporte de Trazabilidad de Cartera
+- [OP-2873](<../../app_modules/CajaGeneral/OP-2873.md>) · CajaGeneral - obtener la informacion correcta para el informe de cuadre de caja
+- [OP-2879](<../../app_modules/ReportesExcel/OP-2879.md>) · app\_modules/ReportesExcel - cambiar la forma en la que se asigna si una evolucion fue cerrada por el sistema en el reporte de atenciones realizadas
+- [OP-2908](<../../app_modules/ReportesExcel/OP-2908.md>) · app\_modules/ReportesExcel - evitar listar el consolidado de hospitalizacion los novedades que han sido anuladas en el sistema
+- [OP-3027](<../../app_modules/ReportesExcel/OP-3027.md>) · App\_modules/ReportesExcel - Ajustes en la consistencia de datos del reporte Dispensación de Medicamentos Pacientes.
+- [OP-3091](<../../Sin modulo confirmado/OP-3091.md>) · Nuevas actualizaciones y funcionalidades en la ficha antimicrobiana.
+- [OP-3149](<../../app_modules/ReportesExcel/OP-3149.md>) · Migración módulo ReportesExcel a php 8
+- [OP-3179](<../../app_modules/ReportesExcel/OP-3179.md>) · App\_Modules/ReportesExcel: Estado de cuentas - error al obtener los datos de la factura relacionados a la cuenta
+- [OP-3187](<../../app_modules/Procedimientos/OP-3187.md>) · App\_module/corrección de falla al imprimir Procedimientos
+- [OP-3262](<../../app_modules/ReportesExcel/OP-3262.md>) · Reportes Excel - Adición de columnas de hospitalización al Reporte General Nefroprevención
+- [OP-3263](<../../app_modules/ReportesExcel/OP-3263.md>) · App\_modules/ReportesExcel - Incorporación de columnas adicionales al Reporte General CAC
+- [OP-3328](<../../app_modules/ReportesExcel/OP-3328.md>) · Errores relacionados a la migración de php 8.4 en modulo REPORTES
+- [RASD-575](<RASD-575.md>) · Novedad en el modulo de reportes al no mostrar la empresa en los filtro, debido a que no se cuenta con todas las sedes asignadas perteneciente a la empresa

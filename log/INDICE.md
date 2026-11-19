@@ -1,0 +1,25 @@
+# system\_modules/log
+
+- [DIAL-423](<../../Sin modulo confirmado/DIAL-423.md>)
+- [DIAL-471](<../../Sin modulo confirmado/DIAL-471.md>)
+- [DIAL-479](<../../Sin modulo confirmado/DIAL-479.md>)
+- [DIAL-533](<../../Sin modulo confirmado/DIAL-533.md>)
+- [DIAL-550](<../../Sin modulo confirmado/DIAL-550.md>)
+- [DIAL-556](<../../Sin modulo confirmado/DIAL-556.md>)
+- [DIAL-559](<../../Sin modulo confirmado/DIAL-559.md>)
+- [DIAL-564](<../../Sin modulo confirmado/DIAL-564.md>)
+- [DIAL-567](<../../Sin modulo confirmado/DIAL-567.md>)
+- [DIAL-581](<DIAL-581.md>)
+- [DIAL-614](<../../Sin modulo confirmado/DIAL-614.md>)
+- [DIAL-620](<../../Sin modulo confirmado/DIAL-620.md>)
+- [DIAL-630](<DIAL-630.md>)
+- [DIAL-635](<DIAL-635.md>)
+- [DIAL-1179](<../../Sin modulo confirmado/DIAL-1179.md>) · 🧪Feat: Valida el ingreso a Dialisoft según la parametrización (DIAL-1179)
+- [OP-214](<../../Sin modulo confirmado/OP-214.md>) · Cambiar la contraseña que se le asigna a los usuarios nuevos
+- [OP-762](<OP-762.md>) · system/log: Elimina argumentos sin uso en la función validarLogin
+- [OP-1191](<OP-1191.md>) · Dialisoft: Acceder desde otro navegador
+- [OP-2221](<OP-2221.md>) · Cambiar la palabra empleado por colaborador en el login de ingreso
+- [OP-3188](<OP-3188.md>) · Ajustes generales migración PHP luego de actualizar el server a PHP 8.4 con Postgresql 17.11
+- [OP-3189](<OP-3189.md>) · Error en la session de los usuarios con cambios realizados para el funcionamiento de php 8.4 con postgresql 17.11
+- [OP-3227](<OP-3227.md>) · system\_modules/log: Solución de incompatibilidad con PHP 8.4 el Loging por pacientes
+- [OP-3236](<../../app_modules/Inventarios/OP-3236.md>) · App\_modules - Ajustes de compatibilidad con PHP 8.4 en Codificación de Productos, Inventario Empresa y Bodegas Empresa
